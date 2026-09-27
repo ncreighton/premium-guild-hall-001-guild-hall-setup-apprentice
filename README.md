@@ -1,0 +1,2 @@
+# premium-guild-hall-001-guild-hall-setup-apprentice
+Tired of losing track of which apprentice is forging steel, practicing alchemy, or researching spells in your bustling guild hall? This Notion template turns chaos into a streamlined 'Craft Lab' that automatically logs every step of their journey.  Instead of juggling scattered notes and spreadsheets, the Guild Hall Setup &amp; Apprentice Track Craft L
